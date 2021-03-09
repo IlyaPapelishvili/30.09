@@ -16,6 +16,9 @@ array:
     - 2
     - 3
 ---
+
+ыувп
+
 # The Rust Programming Language
 
 [The Rust Programming Language](title-page.md)
